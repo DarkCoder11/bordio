@@ -1,0 +1,13 @@
+export {default as AddIcon} from './add.svg';
+export {default as ArrowIcon} from './arrow.svg';
+export {default as BellIcon} from './bell.svg';
+export {default as FiveIcon} from './five.svg';
+export {default as FourIcon} from './four.svg';
+export {default as GrayArrowIcon} from './grayArrow.svg';
+export {default as LogoIcon} from './logo.svg';
+export {default as OneIcon} from './one.svg';
+export {default as PlusIcon} from './plus.svg';
+export {default as SearchIcon} from './search.svg';
+export {default as ThreeIcon} from './three.svg';
+export {default as TwoIcon} from './two.svg';
+export {default as UserIcon} from './user.svg';

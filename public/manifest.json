@@ -1,0 +1,12 @@
+{
+  "name": "Bordio board - Hrant",
+  "short_name": "Bordio board - Hrant",
+  "description": "Bordio board Hrant",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#bf9425",
+  "background_color": "#bf9425",
+  "scope": "/",
+  "splash_pages": null
+}
